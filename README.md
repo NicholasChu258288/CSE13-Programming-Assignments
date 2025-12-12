@@ -20,7 +20,7 @@ generations that the game will last and whether the universe will be toroidal ca
 over then the program will print the final resulting universe of the game to a specified output file.
 
 Assignment 5:
-Implements RSA encrytpion which generate public and private keys for a given file and is able to encrypt and decrypt them.
+Implements RSA encryption which generate public and private keys for a given file and is able to encrypt and decrypt them.
 
 Assignment 6:
 Takes input file and compresses the contents using Huffaman encoding and writing a compressed version to an outfile.
